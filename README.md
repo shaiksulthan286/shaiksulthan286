@@ -146,10 +146,12 @@ A modern portfolio website showcasing security projects, research, certification
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="shaiksulthan286@gmail.com">
+<a href="https://shaiksulthan286@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://tryhackme.com/p/shaiksulthan286">
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.sulthanhasan.me/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
