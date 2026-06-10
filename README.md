@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shaiksulthan286&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 🛡️ Passionate about Cybersecurity, AI Security, and Threat Detection
 
 🔭 Currently Building:
-- VeriShield AI
+- AI-Powered Vulnerability Scanner
 - AI-Powered Fraud Detection System
 - Cybersecurity Portfolio
 
@@ -43,6 +43,8 @@ I enjoy finding vulnerabilities and building secure systems.
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
