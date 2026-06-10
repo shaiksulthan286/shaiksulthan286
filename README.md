@@ -83,8 +83,8 @@ I enjoy finding vulnerabilities and building secure systems.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaiksulthan286&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksulthan286&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ I enjoy finding vulnerabilities and building secure systems.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksulthan286&theme=tokyonight" />
 </p>
 
 ---
@@ -100,34 +100,36 @@ I enjoy finding vulnerabilities and building secure systems.
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksulthan286&theme=tokyo-night" />
 </p>
 
 ---
 
 # 🚀 Current Projects
 
-### 🛡️ VeriShield AI
-AI-powered document fraud and anomaly detection system for banking and financial verification.
+### 🛡️ AI Vulnerability Scanner
+An AI-powered security assessment platform that detects vulnerabilities in web applications, APIs, and AI systems. Features automated scanning, risk scoring, and remediation suggestions.
+
+### 🍯 Intelligent Honeypot System
+A cloud-based honeypot environment designed to attract, monitor, and analyze attacker behavior. Includes real-time logging, threat intelligence, and attack visualization dashboards.
+
+### 🎭 Deepfake Detection System
+A machine learning-based solution for detecting manipulated images and videos. Uses computer vision and deep learning techniques to identify synthetic media with high accuracy.
 
 ### 🔐 Cybersecurity Portfolio
-Personal portfolio showcasing security projects, certifications, and research.
-
-### 🤖 AI Security Research
-Exploring AI vulnerabilities, adversarial attacks, and model security.
+A modern portfolio website showcasing security projects, research, certifications, and technical blogs.
 
 ---
 
 # 🏆 Achievements
 
 - 🎯 Building Real-World Cybersecurity Projects
-- 🚀 Active Open Source Contributor
 - 🔒 Security Research Enthusiast
 - 💻 Full Stack Developer
 - 📚 Continuous Learner
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shaiksulthan286&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
@@ -136,19 +138,19 @@ Exploring AI vulnerabilities, adversarial attacks, and model security.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shaiksulthan/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/shaiksulthan286">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mshaiksulthan286@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="sulthanhasan.me">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -159,7 +161,7 @@ Exploring AI vulnerabilities, adversarial attacks, and model security.
 # 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shaiksulthan286&label=Visitors&color=blue&style=for-the-badge" />
 </p>
 
 ---
