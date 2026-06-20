@@ -88,13 +88,13 @@ I enjoy finding vulnerabilities and building secure systems.
 </p>
 
 ---
-
+<!--
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksulthan286&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 # 📈 Activity Graph
