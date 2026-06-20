@@ -79,7 +79,7 @@ I enjoy finding vulnerabilities and building secure systems.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <p align="center">
@@ -88,13 +88,13 @@ I enjoy finding vulnerabilities and building secure systems.
 </p>
 
 ---
-<!--
+
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksulthan286&theme=tokyonight" />
 </p>
--->
+
 ---
 
 # 📈 Activity Graph
@@ -102,7 +102,7 @@ I enjoy finding vulnerabilities and building secure systems.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksulthan286&theme=tokyo-night" />
 </p>
-
+-->
 ---
 
 # 🚀 Current Projects
